@@ -109,7 +109,11 @@ div.tal-topbar {
     }
   }
 }
-.tutorial{
-  width: auto;
-  height: auto;
+.tutorial {
+  font-size: 10px; // Riduci la dimensione del testo
+  padding: 9px 10px; // Riduci il padding del bottone
+  min-width: auto; // Imposta la larghezza minima a auto per adattarsi al contenuto
+  height: auto; // Imposta l'altezza a auto per adattarsi al contenuto
+  margin-left: 5px;
 }
+

@@ -24,7 +24,6 @@ import { TopbarModule } from './widgets/topbar/topbar.module';
 import { HttpClientModule } from '@angular/common/http';
 import { TutorialComponent } from './widgets/tutorial/tutorial.component';
 
-
 @NgModule({
   declarations: [
     AppComponent,
